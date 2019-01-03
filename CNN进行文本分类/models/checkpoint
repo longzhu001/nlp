@@ -1,0 +1,4 @@
+model_checkpoint_path: "F:\\PycharmProjects\\2018-11-26\\CNN\350\277\233\350\241\214\346\226\207\346\234\254\345\210\206\347\261\273\\models\\model-300"
+all_model_checkpoint_paths: "F:\\PycharmProjects\\2018-11-26\\CNN\350\277\233\350\241\214\346\226\207\346\234\254\345\210\206\347\261\273\\models\\model-100"
+all_model_checkpoint_paths: "F:\\PycharmProjects\\2018-11-26\\CNN\350\277\233\350\241\214\346\226\207\346\234\254\345\210\206\347\261\273\\models\\model-200"
+all_model_checkpoint_paths: "F:\\PycharmProjects\\2018-11-26\\CNN\350\277\233\350\241\214\346\226\207\346\234\254\345\210\206\347\261\273\\models\\model-300"
